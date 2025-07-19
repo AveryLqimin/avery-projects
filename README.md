@@ -1,1 +1,1 @@
-# avery-terraform-ec2-infra
+# avery-projects
